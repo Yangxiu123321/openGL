@@ -1,8 +1,18 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
+  "C"
   "CXX"
   )
 # The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/action/code/openGL/openGL/src/glad.c" "/home/action/code/openGL/openGL/build/CMakeFiles/openGL.dir/src/glad.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "/usr/local/include"
+  )
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/action/code/openGL/openGL/src/main.cpp" "/home/action/code/openGL/openGL/build/CMakeFiles/openGL.dir/src/main.cpp.o"
   )

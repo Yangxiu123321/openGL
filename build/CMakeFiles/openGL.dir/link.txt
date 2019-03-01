@@ -1,1 +1,1 @@
-/usr/bin/c++    -std=c++11 -march=native -O3 -pthread -lglfw3 -lGL -lm -lXrandr -lXi -lX11 -lXxf86vm -lpthread -ldl -lXinerama -lXcursor   CMakeFiles/openGL.dir/src/main.cpp.o  -o openGL -rdynamic -ldl /usr/local/lib/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 
+/usr/bin/c++    -std=c++11 -march=native -O3 -pthread -lglfw3 -lGL -lm -lXrandr -lXi -lX11 -lXxf86vm -lpthread -ldl -lXinerama -lXcursor   CMakeFiles/openGL.dir/src/main.cpp.o CMakeFiles/openGL.dir/src/glad.c.o  -o openGL -rdynamic -ldl /usr/local/lib/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 
